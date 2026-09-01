@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # 🕶️ NEKOX
 
 ### Cybersecurity Learner • Ethical Hacking • Python Developer • Security Researcher
@@ -11,7 +11,7 @@
     ║         Knowledge is the payload."                       ║
     ║                                                          ║
     ╚══════════════════════════════════════════════════════════╝
-:::
+
 
 ## 🧠 `$ whoami`
 
@@ -231,7 +231,7 @@ Every vulnerability I study creates two questions:
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+
     ╔══════════════════════════════════════════════════════╗
     ║                                                      ║
     ║             LEARN • BUILD • BREAK • SECURE           ║
