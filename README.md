@@ -1,105 +1,158 @@
-⚡ root@learning:~$ whoami
 <div align="center">
-🕶️ Hey, I'm [NEKOX]
+🕶️ NEKOX
 Cybersecurity Learner • Ethical Hacking • Python Developer • Security Research
-<img src="https://img.shields.io/badge/STATUS-LEARNING-00ff88?style=for-the-badge&labelColor=050505"> <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00d9ff?style=for-the-badge&labelColor=050505"> <img src="https://img.shields.io/badge/AGE-18-ff0055?style=for-the-badge&labelColor=050505"> <br>
 
-Breaking things in labs so I can learn how to build and secure them better.
+
+
+
+
+
+<br>
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   "Learn. Build. Break. Understand. Secure."             ║
+║                                                          ║
+║   Currently exploring the world of cybersecurity         ║
+║   one vulnerability, script, and CTF at a time.          ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 
 </div>
-🧠 $ cat about_me.txt
-Name        : [NEKOX]
-Age         : 18
-Role        : Cybersecurity Student / Developer
-Currently   : Learning Ethical Hacking & Security Research
-Mindset     : Learn → Build → Break → Understand → Secure
-Environment : Linux + Windows
-Status      : █████████░ 90% Curious
+🧠 $ whoami
+┌─────────────────────────────────────────────────────┐
+│                    NEKOX PROFILE                    │
+├─────────────────────────────────────────────────────┤
+│ Age         : 18                                    │
+│ Role        : Cybersecurity Learner / Developer     │
+│ Focus       : Ethical Hacking & Security Research   │
+│ Languages   : Python, JavaScript, C, C++, C#       │
+│ Environment : Linux / Windows                       │
+│ Learning    : WebSec / Networks / RE / CTFs        │
+│ Status      : Building • Learning • Experimenting   │
+└─────────────────────────────────────────────────────┘
 
 
-I'm an 18-year-old cybersecurity learner exploring how software, networks, and applications can fail — and, more importantly, how they can be secured.
+I'm an 18-year-old cybersecurity learner interested in understanding how software, networks, and web applications work — including how they can fail and how those weaknesses can be fixed.
 
-I'm currently experimenting with SQL injection, web security, authorized webcam-security labs, Python security tooling, CTFs, and ethical-hacking concepts.
+Currently exploring web application security, SQL injection in controlled environments, Python security scripting, CTFs, networking, reverse engineering, and ethical hacking.
 
-I don't claim to know everything.
+I'm still learning, still breaking things in labs, and still making plenty of mistakes.
 
-That's exactly why I'm here. 🧠
+That's the point.
 
-🕷️ Current Mission
-[████████████████░░░░] Web Security
-[██████████████░░░░░░] Ethical Hacking
-[████████████░░░░░░░░] Python Security Tools
-[███████████░░░░░░░░░] Network Security
-[█████████░░░░░░░░░░░] Reverse Engineering
-[███████░░░░░░░░░░░░░] Malware Analysis
-[██████░░░░░░░░░░░░░░] Digital Forensics
+🧠 I don't want to just use security tools. I want to understand what happens underneath them.
 
-🔥 Currently Learning
+🕷️ $ cat current_mission.txt
+WEB SECURITY          █████████████████░░░  85%
+PYTHON                ████████████████░░░░  80%
+ETHICAL HACKING       ███████████████░░░░░  75%
+LINUX                 ██████████████░░░░░░  70%
+NETWORKING            ████████████░░░░░░░░  60%
+C / C++               ████████████░░░░░░░░  60%
+REVERSE ENGINEERING   ████████░░░░░░░░░░░░  40%
+DIGITAL FORENSICS     ██████░░░░░░░░░░░░░░  30%
+CLOUD SECURITY        ████░░░░░░░░░░░░░░░░  20%
+
+🔥 $ cat learning.log
 🌐 Web application security
-💉 SQL injection in intentionally vulnerable environments
-📷 Webcam/security testing in authorized labs
+💉 SQL injection in intentionally vulnerable labs
 🐍 Python scripting & automation
 🧪 Capture The Flag (CTF) challenges
-🔐 Authentication & authorization security
-🌐 Networking fundamentals
-🐧 Linux & command-line tooling
-🔎 Vulnerability research
+🔐 Authentication & authorization
+🌍 HTTP / HTTPS & APIs
+🌐 TCP/IP, DNS & networking
+🐧 Linux & command-line environments
+🔎 Reconnaissance & enumeration
+🛡️ OWASP security concepts
 🧬 Reverse engineering fundamentals
-🛡️ Defensive security & hardening
-📊 Log analysis and security monitoring
-💻 Languages & Technologies
-Languages
-<p> <img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=FFD43B"> <img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/C-050505?style=for-the-badge&logo=c&logoColor=A8B9CC"> <img src="https://img.shields.io/badge/C%23-050505?style=for-the-badge&logo=csharp&logoColor=9B4F96"> <img src="https://img.shields.io/badge/C%2B%2B-050505?style=for-the-badge&logo=cplusplus&logoColor=00599C"> </p>
-Security / Development
-<p> <img src="https://img.shields.io/badge/Linux-050505?style=for-the-badge&logo=linux&logoColor=FCC624"> <img src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=F05032"> <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=ffffff"> <img src="https://img.shields.io/badge/Networking-050505?style=for-the-badge&logo=cisco&logoColor=00BCEB"> </p>
-🧪 Things I'm Building
+📊 Log analysis & security monitoring
+🔬 Vulnerability research
+📷 Webcam security testing in authorized labs
+🛡️ Defensive security & system hardening
+💻 $ neofetch --skills
+🧬 Languages
 
-Most of my projects are experiments designed to help me understand security concepts through practice.
 
-Project	Description	Status
-🐍 Python Security Scripts	Automation & security-learning utilities	🟢 Active
-💉 SQLi Lab	Learning SQL injection in controlled environments	🟢 Active
-🌐 WebSec Playground	Web security experiments & vulnerable apps	🟡 Building
-📷 Camera Security Lab	Authorized webcam-security research	🟡 Learning
-🧩 CTF Toolkit	Small utilities for CTF challenges	🟡 Building
-🔐 Security Notes	My cybersecurity learning journal	🟢 Active
-🧰 My Security Learning Stack
-                    ┌──────────────────────┐
-                    │    CYBERSECURITY     │
-                    └──────────┬───────────┘
-                               │
-          ┌────────────────────┼────────────────────┐
-          ▼                    ▼                    ▼
-    ┌───────────┐        ┌───────────┐        ┌───────────┐
-    │ WEB SEC   │        │ NETWORKS  │        │   CODE    │
-    └─────┬─────┘        └─────┬─────┘        └─────┬─────┘
-          │                    │                    │
-          ▼                    ▼                    ▼
-      SQLi / XSS           TCP/IP / DNS       Python / C++
-      Auth / Sessions      HTTP / Routing      JS / C / C#
-      APIs / Logic        Linux Networking     Automation
 
-🎯 My Roadmap
+
+
+
+
+🖥️ Environment
+
+
+
+
+
+
+🛠️ Development
+
+
+
+
+
+
+
+🛡️ Security
+
+
+
+
+
+
+🧪 $ ls ~/projects
+Project	What I'm Doing	Status
+🐍 Python Security Scripts	Automation & security-learning utilities	🟢
+💉 SQLi Lab	Learning SQL injection in controlled environments	🟢
+🌐 WebSec Playground	Web security experiments & vulnerable apps	🟡
+📷 Camera Security Lab	Authorized webcam-security research	🟡
+🧩 CTF Toolkit	Utilities for CTF challenges	🟡
+🔐 Security Notes	Cybersecurity learning journal	🟢
+
+🟢 Active    🟡 Building / Learning    🔴 Planned
+
+🧰 $ cat security_stack.txt
+                         ┌─────────────────────┐
+                         │    CYBERSECURITY    │
+                         └──────────┬──────────┘
+                                    │
+              ┌─────────────────────┼─────────────────────┐
+              │                     │                     │
+              ▼                     ▼                     ▼
+        ┌───────────┐         ┌───────────┐         ┌───────────┐
+        │  WEB SEC  │         │ NETWORKS  │         │   CODE    │
+        └─────┬─────┘         └─────┬─────┘         └─────┬─────┘
+              │                     │                     │
+              ▼                     ▼                     ▼
+           SQLi / XSS           TCP/IP / DNS          Python
+           HTTP / APIs          HTTP / Routing         C / C++
+           Auth / Sessions      Traffic Analysis      JavaScript
+           Web Logic            Linux Networking      C#
+
+🎯 $ cat roadmap.md
 01 — Foundations
  Programming fundamentals
- Git & GitHub basics
+ Git & GitHub
  JavaScript fundamentals
- C / C++ fundamentals
+ C fundamentals
+ C++ fundamentals
  Advanced Python
+ Advanced networking
 02 — Cybersecurity
  Linux fundamentals
- Networking
  Web application security
- OWASP concepts
+ OWASP Top 10
  Authentication security
+ API security
  Vulnerability assessment
+ Secure coding
 03 — Offensive Security
  CTFs
  Web exploitation labs
  Privilege escalation
  Active Directory fundamentals
  Reverse engineering
- Exploit development fundamentals
+ Exploit-development fundamentals
 04 — Defensive Security
  SOC fundamentals
  SIEM
@@ -108,102 +161,136 @@ Project	Description	Status
  Digital forensics
  Incident response
 05 — The Long Game
-Junior Researcher
-       ↓
-Security Engineer
-       ↓
-Security Researcher
-       ↓
-??? 👀
+             LEARN
+               │
+               ▼
+             BUILD
+               │
+               ▼
+         BREAK IN LABS
+               │
+               ▼
+           ANALYZE
+               │
+               ▼
+            SECURE
+               │
+               ▼
+           RESEARCH
+               │
+               ▼
+              ??? 👀
 
-🧠 Philosophy
-while not_expert:
-
-    learn()
-    build()
-    break_things_in_labs()
-    read_documentation()
-    make_mistakes()
-    understand_why()
-    fix_it()
-    repeat()
-
-
-The goal isn't to know every tool.
-
-The goal is to understand what's happening underneath.
-
-⚔️ Rules I Follow
-+ Learn ethically
-+ Practice in CTFs and intentionally vulnerable labs
-+ Build before blindly copying
-+ Read the documentation
-+ Understand the vulnerability
-+ Learn how to defend against what I study
-
-- Don't attack systems without authorization
-- Don't steal credentials or data
-- Don't deploy malware against real targets
-- Don't confuse curiosity with permission
-
-📚 Currently Exploring
-Web Security        ███████████████░░░
-Python              ████████████████░░
-Linux               █████████████░░░░░
-Networking          ███████████░░░░░░░
-C / C++             ████████████░░░░░░
-Reverse Engineering ███████░░░░░░░░░░░
-Digital Forensics   █████░░░░░░░░░░░░░
-Cloud Security      ███░░░░░░░░░░░░░░░
-
-🏴‍☠️ CTF / Lab Mindset
-RECON
-  ↓
-ENUMERATION
-  ↓
-UNDERSTAND
-  ↓
-TEST
-  ↓
-EXPLOIT (AUTHORIZED LAB)
-  ↓
-ANALYZE
-  ↓
-DOCUMENT
-  ↓
-MITIGATE
+🧠 $ python mindset.py
+def cybersecurity_journey():
+    while not_expert:
+        learn()
+        build()
+        experiment_in_labs()
+        read_documentation()
+        make_mistakes()
+        understand_why()
+        fix_it()
+        document()
+        repeat()
 
 
-Every vulnerability I study has two questions:
+cybersecurity_journey()
 
-"How does it work?"
 
-and
+Tools change. Fundamentals don't.
 
-"How do we stop it?"
+Don't memorize commands. Understand what they actually do.
 
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050505"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=050505"> </div>
+⚔️ $ cat ethics.txt
++ Practice in CTFs and intentionally vulnerable environments
++ Test only systems I own or have explicit permission to test
++ Read documentation
++ Understand vulnerabilities before using tools
++ Learn offensive techniques to improve defensive skills
++ Document what I learn
+
+- No unauthorized access
+- No credential theft
+- No data theft
+- No attacking real systems without permission
+- No deploying malicious code against real targets
+- No confusing curiosity with authorization
+
+🏴‍☠️ $ ./ctf_mindset
+       ┌──────────────┐
+       │     RECON    │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │ ENUMERATION  │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │  UNDERSTAND  │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │     TEST     │
+       └──────┬───────┘
+              ↓
+       ┌────────────────┐
+       │ AUTHORIZED LAB │
+       └───────┬────────┘
+               ↓
+       ┌──────────────┐
+       │    ANALYZE   │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │   DOCUMENT   │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │   MITIGATE   │
+       └──────────────┘
+
+
+Every vulnerability I study leads to two questions:
+
+How does it work?
+
+How do we stop it?
+
+📊 $ git stats
+<div align="center">
+
+</div>
 🐍 Contribution Snake
 <div align="center">
 
 </div>
-🌐 Find Me
+
+If the snake doesn't appear, the GitHub Action generating it hasn't been configured yet.
+
+🌐 $ ping NEKOX
 <div align="center">
 
 </div>
 <div align="center">
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║        ███╗   ██╗███████╗██╗  ██╗                   ║
+║        ████╗  ██║██╔════╝╚██╗██╔╝                   ║
+║        ██╔██╗ ██║█████╗   ╚███╔╝                    ║
+║        ██║╚██╗██║██╔══╝   ██╔██╗                    ║
+║        ██║ ╚████║███████╗██╔╝ ██╗                   ║
+║        ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝                   ║
+║                                                      ║
+║             LEARN • BUILD • BREAK • SECURE          ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+
 > ACCESS GRANTED_
-╔══════════════════════════════════════════╗
-║                                          ║
-║     LEARN. BUILD. BREAK. SECURE.         ║
-║                                          ║
-║     Curiosity is the exploit.            ║
-║     Knowledge is the payload.            ║
-║                                          ║
-╚══════════════════════════════════════════╝
 
+Curiosity is the exploit.
+Knowledge is the payload.
 
-⭐ If you find something useful here, consider starring a repository.
+⭐ Thanks for stopping by.
 
 </div>
